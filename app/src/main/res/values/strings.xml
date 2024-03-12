@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">30DaysApp</string>
+    <!-- Day 1 -->
+    <string name="day_1_subtitle">Day 1   Easy Chicken Fried Rice</string>
+    <string name="day_1_description">In just 30 minutes and with only eight ingredients, recreate this popular takeout dish at home. Experiment by substituting tofu, additional veggies, or pork tenderloin for the rotisserie chicken.</string>
+
+    <!-- Day 2 -->
+    <string name="day_2_subtitle">Day 2 Instant Pot Sesame Chicken</string>
+    <string name="day_2_description">The Instant Pot makes this traditional Chinese chicken recipe ready in just 20 minutes. For a gluten-free option, replace soy sauce with gluten-free tamari.</string>
+
+    <!-- Day 3 -->
+    <string name="day_3_subtitle">Day 3 Shrimp Egg Foo Young</string>
+    <string name="day_3_description">This egg foo young version is lighter with egg whites and reduced-sodium soy sauce. For a vegetarian option, omit shrimp and use veggie broth instead of chicken broth.</string>
+
+    <!-- Day 4 -->
+    <string name="day_4_subtitle">Day 4 Slow-Cooker Mongolian Beef</string>
+    <string name="day_4_description">Savor the saucy and flavorful Taiwanese stir-fry dish of Mongolian beef, enriched with garlic, red pepper flakes, hoisin sauce, soy sauce, and sesame oil. Spice enthusiasts can elevate the heat with a dash of Sriracha.</string>
+
+    <!-- Day 5 -->
+    <string name="day_5_subtitle">Day 5 Sticky Sesame Cauliflower</string>
+    <string name="day_5_description">Crafted from scratch, this vegetarian appetizer requires some time for the batter preparation. However, it is baked instead of fried, reducing fat content and simplifying clean-up.</string>
+
+    <!-- Day 6 -->
+    <string name="day_6_subtitle">Day 6 Crispy Crab Rangoon</string>
+    <string name="day_6_description">With store-bought wonton wrappers, making crab rangoon at home is surprisingly simple. Freeze the filled crab puffs before frying to prevent filling leakage during cooking.</string>
+
+    <!-- Day 7 -->
+    <string name="day_7_subtitle">Day 7 Cashew Chicken with Bok Choy</string>
+    <string name="day_7_description">Is this the ideal weeknight dinner? Bok choy with protein, veggies, and rice is ready in about 30 minutes. No wok? Not an issue! Simply utilize your largest skillet.</string>
+
+    <!-- Day 8 -->
+    <string name="day_8_subtitle">Day 8 Quick Chicken Lo Mein</string>
+    <string name="day_8_description">Utilizing store-bought rotisserie chicken, prepare quick chicken lo mein in no time. The blend of oyster sauce, lime juice, and chili sauce replicates the flavors of restaurant takeout.</string>
+
+    <!-- Day 9 -->
+    <string name="day_9_subtitle">Day 9 Slow-Cooker Beef and Broccoli</string>
+    <string name="day_9_description">Elevate your slow-cooked beef and broccoli with this expert tip: brown the meat in a frying pan before adding it to the slow cooker for enhanced flavor and texture.</string>
+
+    <!-- Day 10 -->
+    <string name="day_10_subtitle">Day 10 Quick Ginger Pork</string>
+    <string name="day_10_description">Save this ginger pork recipe for busy weeknights—it goes from fridge to table in just 20 minutes. Elevate it with sliced green onions and toasted sesame seeds for an extra fancy touch.</string>
+
+    <!-- Day 11 -->
+    <string name="day_11_subtitle">Day 11 Pot Stickers (Chinese Dumplings)</string>
+    <string name="day_11_description">Make shrimp and beef dumplings with extra filling. Freeze on a parchment-lined sheet, then transfer to a bag. Cook from frozen or defrost for a quick meal. Serve with soy sauce or an Easy Asian Dipping Sauce.</string>
+
+    <!-- Day 12 -->
+    <string name="day_12_subtitle">Day 12 Egg Drop Soup</string>
+    <string name="day_12_description">Make easy egg drop soup by whisking eggs into hot chicken broth, topping with chives. Adjust thickness with cornstarch, use low-sodium broth, and add corn for texture. Omit food coloring if unavailable.</string>
+
+    <!-- Day 13 -->
+    <string name="day_13_subtitle">Day 13 Wonton Soup</string>
+    <string name="day_13_description">The wontons must be cooked in boiling water separately and then served with chicken stock. I have made these many times and different variations.</string>
+
+    <!-- Day 14 -->
+    <string name="day_14_subtitle">Day 14 General Tsao Chicken</string>
+    <string name="day_14_description">Achieve a delicious balance of spice and sweetness by double frying the chicken or opt for a quicker stir-fry method. Adjust spiciness, substitute cashews for peanuts, and serve with rice and broccoli.</string>
+
+    <!-- Day 15 -->
+    <string name="day_15_subtitle">Day 15 Sesame Beef</string>
+    <string name="day_15_description">Marinate this quick and easy beef dish in advance and cook rapidly for a speedy dinner. Double the marinade, using half to soak the meat and the rest as a flavorful sauce for serving over rice or noodles.</string>
+
+    <!-- Day 16 -->
+    <string name="day_16_subtitle">Day 16 Soup Dumplings</string>
+    <string name="day_16_description">We adore dumplings, especially xiaolongbao, the Chinese variety filled with ground pork and gelatinized pork broth. While traditionally made with pork bones for the broth, gelatin and any preferred broth can be substituted. Rest assured, these dumplings remain heavenly when heated.</string>
+
+    <!-- Day 17 -->
+    <string name="day_17_subtitle">Day 17 Scallion Pancakes</string>
+    <string name="day_17_description">Crispy, flaky, with a slight chew—these pancakes are an ideal complement to a Chinese food night. The good news is they freeze exceptionally well if you happen to have more than you can handle.</string>
+
+    <!-- Day 18 -->
+    <string name="day_18_subtitle">Day 18 Pan-Fried Noodles in Superior Soy Sauce</string>
+    <string name="day_18_description">Pan-fried noodles achieve perfection with a quick boil and a wok dance for crispiness. Enhanced by wok hei, they absorb fragrant flavors from soy sauce, wine, oil, sugar, and herbs.</string>
+
+    <!-- Day 19 -->
+    <string name="day_19_subtitle">Day 19 Black Pepper Chicken</string>
+    <string name="day_19_description">Velvet chicken for the juiciest tenderness: marinate in a cornstarch slurry before cooking. The downtime allows for veggie prep and crafting a tasty stir-fry sauce.</string>
+
+    <!-- Day 20 -->
+    <string name="day_20_subtitle">Day 20 Beef And Broccoli Noodles</string>
+    <string name="day_20_description">With soy sauce-infused flank steak and broccoli, these rice noodles are packed with flavor.</string>
+
+    <!-- Day 21 -->
+    <string name="day_21_subtitle">Day 21 Bang Bang Shrimp</string>
+    <string name="day_21_description">Bang bang shrimp is an irresistible go-to appetizer. The combination of crispy shrimp and the creamy, spicy-sweet sauce is a match made in appetizer heaven, perfect for snacks, parties, or weeknight dinners.</string>
+
+    <!-- Day 22 -->
+    <string name="day_22_subtitle">Day 22 Chinese Eggplant with Garlic Sauce</string>
+    <string name="day_22_description">Cooking eggplant is tricky. Improper seasoning results in bitterness or blandness. Too little oil leads to mushiness, while excess oil makes it soggy and greasy.</string>
+
+    <!-- Day 23 -->
+    <string name="day_23_subtitle">Day 23 Tomato And Egg Stir Fry</string>
+    <string name="day_23_description">Stir-fried tomatoes and scrambled eggs with aromatics and simple seasonings make a hearty, healthy meal served with rice. Quick to prepare, this vegetarian and gluten-free dish is satisfying.</string>
+
+    <!-- Day 24 -->
+    <string name="day_24_subtitle">Day 24 Chinese BBQ Ribs</string>
+    <string name="day_24_description">Savor the holidays with delicious, fall-off-the-bone tender Chinese BBQ ribs. Finger-licking good and perfect for special occasions, these ribs also make delightful gluten-free leftovers if there are any!</string>
+
+    <!-- Day 25 -->
+    <string name="day_25_subtitle">Day 25 Scrambled Eggs with Shrimp</string>
+    <string name="day_25_description">Chinese scrambled eggs with shrimp, a popular homestyle dish, takes just 15 minutes to make and offers comforting enjoyment. Best served over steamed rice, it is a delightful combination of dainty and delicate flavors.</string>
+
+    <!-- Day 26 -->
+    <string name="day_26_subtitle">Day 26 Egg and Green Onion Crepe</string>
+    <string name="day_26_description">Indulge in a light and fluffy egg and green onion crepe with a simple, comforting flavor. Snack on these crepes, boasting crispy edges and a melt-in-your-mouth texture, in just 10 minutes. Perfect for a lazy breakfast in bed or a late-night snack, this recipe features only 5 ingredients.</string>
+
+    <!-- Day 27 -->
+    <string name="day_27_subtitle">Day 27 Xinjiang Lamb Skewers</string>
+    <string name="day_27_description">Xinjiang-style grilled lamb, a Northern Chinese street snack, is a missed delicacy. During summer in Beijing, locals enjoy these skewers outdoors, originating from Xinjiang, a predominantly Uighur and Muslim region.</string>
+
+    <!-- Day 28 -->
+    <string name="day_28_subtitle">Day 28 Chinese Mushroom Chicken Stir Fry</string>
+    <string name="day_28_description">Create a simple and delicious Panda Express-style Chinese mushroom chicken for a quick weekday dinner. Tender chicken bites, juicy mushrooms, and crispy bamboo shoots come together in an aromatic savory-sweet sauce.</string>
+
+    <!-- Day 29 -->
+    <string name="day_29_subtitle">Day 29 Easy Chinese Cucumber Salad</string>
+    <string name="day_29_description">Chinese Cucumber Salad (拍黄瓜) is a refreshing appetizer. Crisp cucumbers, garlic, soy sauce, vinegar, sugar, and sesame oil create a light, tangy, subtly sweet dish with a strong garlic aroma.</string>
+
+    <!-- Day 30 -->
+    <string name="day_30_subtitle">Day 30 Seafood Congee</string>
+    <string name="day_30_description">Seafood congee, the epitome of comfort food, showcases rice transformed into a tender, silky broth brimming with delightful ingredients. This recipe unveils the effortless secret of infusing a super flavorful broth with dried scallops.</string>
+</resources>
